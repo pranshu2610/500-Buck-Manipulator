@@ -9,3 +9,6 @@ AR apps allow you to define and recognise objects in the real-world and overlay 
 a replacement image used to swap one playing card into another - the perfect AR magic trick! You can access further information in the Unity user manual at: https://docs.unity3d.com/Manual/UnityManual.html
 Simple and Clean Project
 Thats all!! Cheers!
+# Download
+Download AR Currency apk from here : https://drive.google.com/open?id=1HGAmijDrc3A-gWBfiTGU6qmB_3mxDpy0
+This is updated and revised apk package
