@@ -1,6 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 # 500-Buck-Manipulator
 This app uses the AR feature to manipulate programmed currency of ₹500 rupee note in front of your android camera and converts it into ₹200.
 # Introduction
@@ -17,7 +16,7 @@ Thats all!! Cheers!
 # Download
 Download AR Currency apk from here : 
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1HGAmijDrc3A-gWBfiTGU6qmB_3mxDpy0)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1HGAmijDrc3A-gWBfiTGU6qmB_3mxDpy0) [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
 
 This is updated and revised apk package
