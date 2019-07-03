@@ -16,7 +16,7 @@ Thats all!! Cheers!
 # Download
 Download AR Currency apk from here : 
 
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1HGAmijDrc3A-gWBfiTGU6qmB_3mxDpy0) [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1HGAmijDrc3A-gWBfiTGU6qmB_3mxDpy0)                 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://drive.google.com/open?id=1HGAmijDrc3A-gWBfiTGU6qmB_3mxDpy0)
 
 
 This is updated and revised apk package
